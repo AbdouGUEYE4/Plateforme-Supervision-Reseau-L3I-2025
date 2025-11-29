@@ -1,0 +1,7 @@
+pysnmp==4.4.12
+pyshark==0.5.0
+requests==2.31.0
+pandas==2.0.3
+scapy==2.5.0
+PyQt5==5.15.9
+matplotlib==3.7.2
